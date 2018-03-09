@@ -1,5 +1,7 @@
-# FlymeStudio-Doc
+Home | [Standard](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/standard.md) | [Web](https://github.com/FlymeStudio/FlymeStudio-Web/blob/master/README.md) | [Server](https://github.com/FlymeStudio/FlymeStudio-Server/blob/master/README.md) | [Database](https://github.com/FlymeStudio/FlymeStudio-Database/blob/master/README.md)
 
+---
+# Home
 ---
 ## 声明
 该项目属于非营利团体项目，不参与任何商业使用，未经作者授权，禁止fork或者盗用。
@@ -36,4 +38,3 @@
 ## 团队
 - [frogfans](https://github.com/frogfans)
 - [okij98](https://github.com/okij98)
-
