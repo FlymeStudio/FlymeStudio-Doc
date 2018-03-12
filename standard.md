@@ -15,8 +15,9 @@
 
 - tel: 电话，数字，fixed-length为11
 - email: 邮箱，字符串，max-length为255
-- date: 日期，时间戳
 - type: 类型，数字，fixed-length为1
+- date: 日期，时间戳
+- content: 内容，字符串
 - searchId: 索引编号，数字，fixed-length为8
 
 ---
@@ -24,6 +25,7 @@
 
 - tel: 电话，数字，fixed-length为11
 - email: 邮箱，字符串，max-length为255
-- date: 日期，时间戳
 - type: 类型，数字，fixed-length为1
+- date: 日期，时间戳
+- content: 内容，字符串
 - searchId: 索引编号，数字，fixed-length为8
