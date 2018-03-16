@@ -13,6 +13,7 @@
 
 ---
 ## 设计
+
 - 账户
 
 需要注册和登录后才能使用
@@ -20,22 +21,17 @@
 ** **
 - 目标
 
-以年、月、日为节点，制定、跟踪、修改、删除工作目标。
-树状结构显示。
+以年、月、周、日为节点，制定、跟踪、修改、删除工作目标。
+卡片排列显示。
 
 ** **
 - 报告
 
-以年、月、日为节点，制定、跟踪、修改、删除工作报告。
-树状结构显示。
-
----
-## 模块
-- [前端部分](https://github.com/FlymeStudio/FlymeStudio-Web)
-- [后端部分](https://github.com/FlymeStudio/FlymeStudio-Server)
-- [数据库部分](https://github.com/FlymeStudio/FlymeStudio-Database)
+以年、月、周、日为节点，制定、跟踪、修改、删除工作报告。
+卡片排列显示。
 
 ---
 ## 团队
+
 - [frogfans](https://github.com/frogfans)
 - [xuhanping](https://github.com/xuhanping)
