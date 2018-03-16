@@ -37,4 +37,4 @@ Home | [Standard](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/sta
 ---
 ## 团队
 - [frogfans](https://github.com/frogfans)
-- [okij98](https://github.com/okij98)
+- [xuhanping](https://github.com/xuhanping)
