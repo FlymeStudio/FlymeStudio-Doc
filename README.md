@@ -1,7 +1,8 @@
-Home | [Standard](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/standard.md) | [Web](https://github.com/FlymeStudio/FlymeStudio-Web/blob/master/README.md) | [Server](https://github.com/FlymeStudio/FlymeStudio-Server/blob/master/README.md) | [Database](https://github.com/FlymeStudio/FlymeStudio-Database/blob/master/README.md)
-
+# Doc | [Web](https://github.com/FlymeStudio/FlymeStudio-Web/blob/master/README.md) | [Server](https://github.com/FlymeStudio/FlymeStudio-Server/blob/master/README.md) | [Database](https://github.com/FlymeStudio/FlymeStudio-Database/blob/master/README.md)
 ---
-# Home
+
+## Home | [Introduce](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/introduce.md) | [Standard](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/standard.md)
+
 ---
 ## 声明
 该项目属于非营利团体项目，不参与任何商业使用，未经作者授权，禁止fork或者盗用。
