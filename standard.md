@@ -3,4 +3,4 @@
 
 ## [Home](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/README.md) | [Introduce](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/introduce.md) | Standard
 
-![](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/class.png?raw=true)
+![](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/uml.png?raw=true)
