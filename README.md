@@ -20,7 +20,7 @@
 
 - 数据库：MySQL
 
-- 环境：Ubuntu 14.04 LTS
+- 环境：Ubuntu 16.04 LTS
 
 ---
 ## 团队
