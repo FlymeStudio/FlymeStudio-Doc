@@ -4,3 +4,20 @@
 ## [Home](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/README.md) | Introduce | [Standard](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/standard.md)
 
 ---
+## Instructions
+
+### *What's FlymeStudio ?*
+
+
+---
+### *How to join FlymeStudio ?*
+
+
+---
+### *How to use it ?*
+
+
+---
+## Feedback
+
+- [Issues](https://github.com/FlymeStudio/FlymeStudio-Doc/issues)
