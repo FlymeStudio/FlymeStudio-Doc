@@ -6,7 +6,7 @@
 ---
 ## UML
 
-![](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/uml.png?raw=true)
+![](https://github.com/FlymeStudio/FlymeStudio-Doc/blob/master/assets/uml.png?raw=true)
 
 ---
 ## Security
