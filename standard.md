@@ -179,6 +179,18 @@ netstat -nltp|grep <tomcat端口>
 /etc/init.d/tomcat stop
 ```
 
+### MySQL部署
+
+检查
+```
+sysv-rc-conf --list
+```
+
+设置
+```
+sysv-rc-conf --level 345 mysql on   
+```
+
 ---
 ## Feedback
 
