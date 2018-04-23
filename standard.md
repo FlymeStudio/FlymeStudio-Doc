@@ -55,7 +55,7 @@
 
 ### Vue.js部分修改build相关参数
 
-** 1. /config/index.js**
+**1. /config/index.js**
 
 build部分，将"assetsPublicPath"值改为"./"
 
@@ -92,7 +92,7 @@ build: {
   }
 ```
 
-** 2. /build/utils.js**
+**2. /build/utils.js**
 
 "if (options.extract)"中，"ExtractTextPlugin.extract"参数列表增加"publicPath: '../../'"
 
@@ -110,7 +110,7 @@ if (options.extract) {
 
 ### Spring工程修改servlet配置文件
 
-** 1. spring-servlet.xml增加页面资源**
+**1. spring-servlet.xml增加页面资源**
 
 ```
 <!-- 静态资源访问 -->
@@ -119,15 +119,15 @@ if (options.extract) {
 <mvc:annotation-driven />
 ```
 
-** 2. 迁移静态网页资源**
+**2. 迁移静态网页资源**
 
 放到/WEB-INF/pages/下
 
 ### Tomcat部署
 
-** 1. eclipse中对工程使用"Maven install"打包war文件**
+**1. eclipse中对工程使用"Maven install"打包war文件**
 
-** 2. tomcat服务器设置开机自启**
+**2. tomcat服务器设置开机自启**
 
 复制/tomcat/bin/catalina.sh
 ```
